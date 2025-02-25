@@ -33,4 +33,3 @@ yarn start
 - 🎮 [CodeSandbox](#)  https://codesandbox.io/p/github/I-gabx-I/LAB06/main?import=true
 
 ---
-Desarrollado por **[Tu Nombre]** 🚀
